@@ -159,6 +159,9 @@ header{
 .ru{
     right: 70px;
 }
+.en{
+    color: #ef4256;
+}
 
 .lang{
     display: flex;
@@ -287,6 +290,9 @@ header{
     background-image: url(../img/english.png);
 }
 
+.hobby-text{
+    margin-bottom: 10px;
+}
 .hobbys{
     display: flex;
     justify-content: center;
@@ -326,7 +332,7 @@ header{
 }
 
 .sliders-main{
-    width: 90%;
+    width: 82%;
     margin: auto;
     /* display: flex;
     justify-content: center; */
@@ -380,6 +386,10 @@ header{
 .img_test{
     width: 25%;
     position: relative;
+}
+
+.butt:hover{
+    color: #ef4256;
 }
 
 .butts{

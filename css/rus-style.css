@@ -1,0 +1,10 @@
+.work-photo{
+    background-image: url(../img/rus-work.png);
+}
+.educ-photo{
+    background-image: url(../img/rus-education.png);
+}
+.ru{
+    right: 70px;
+    color: #ef4256;
+}
